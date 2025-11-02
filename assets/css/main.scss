@@ -41,3 +41,12 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.navbar .nav {
+  float: right;       /* move the entire list to the right */
+}
+
+.navbar .nav li {
+  display: inline-block; /* ensure links are horizontal */
+  margin-left: 20px;     /* space between links */
+}
