@@ -42,11 +42,15 @@
     "vendor/font-awesome/brands"
 ;
 
-.navbar .nav {
-  float: right;       /* move the entire list to the right */
+/* Right-align top navigation links */
+.masthead__menu {
+  float: right;          /* move the entire menu to the right */
+  list-style: none;      /* remove bullets, just in case */
+  margin: 0;
+  padding: 0;
 }
 
-.navbar .nav li {
-  display: inline-block; /* ensure links are horizontal */
-  margin-left: 20px;     /* space between links */
+.masthead__menu-item {
+  display: inline-block; /* keep links horizontal */
+  margin-left: 20px;     /* spacing between links */
 }
