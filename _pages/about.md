@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year PhD Candidate at UC Irvine, advised by [Professor. Anne Marie Piper] (https://ics.uci.edu/~ampiper/). My research explores how accessibility is understood, valued, and put into practice by people and organizations. Through my research I hope to uncover gaps and suggest practical strategies to make organizations more inclusive for people of all ages and abilities.
+I’m a third-year PhD Candidate at UC Irvine, advised by [Professor. Anne Marie Piper](https://ics.uci.edu/~ampiper/). My research explores how accessibility is understood, valued, and put into practice by people and organizations. Through my research I hope to uncover gaps and suggest practical strategies to make organizations more inclusive for people of all ages and abilities.
 
 Storyteller
 ======
