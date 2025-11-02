@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Accessibility/ HCI/ UX Researcher"
+title: "Accessibility Researcher"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ I’m a third-year PhD Candidate at UC Irvine, advised by [Dr. Anne Marie Piper]
 
 Before beginning my PhD, I worked as a UX researcher, where I explored how people interact with digital products and services. I conducted user interviews and usability tests to uncover user needs, behaviors, and pain points, translating them to actionable design recommendations. This experience deepened my understanding of human-centered design and the importance of accessibility, equity, and inclusivity in technology. 
 
-Throughout my non-linear career between academia and industry, I have honed the ability to listen deeply and intentionally work toward making my research practices more inclusive.
+Through my non-linear career between academia and industry, I have honed the ability to listen deeply and intentionally work toward making my research practices more inclusive.
 
 Latest News 
 ======
