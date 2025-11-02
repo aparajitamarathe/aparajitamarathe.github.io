@@ -7,13 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I’m a third-year PhD Candidate at UC Irvine, advised by [Dr. Anne Marie Piper](https://ics.uci.edu/~ampiper/). My research explores how accessibility is understood, valued, and put into practice by people and organizations. Through my research I hope to uncover gaps and suggest practical strategies to make organizations more inclusive for people of all ages and abilities.
-
-Storyteller
-======
-I love uncovering human stories behind policies, technologies, and systems, and sharing them in ways that spark insight and change. 
+I’m a third-year PhD Candidate at UC Irvine, advised by [Dr. Anne Marie Piper](https://ics.uci.edu/~ampiper/). My research explores how accessibility is understood, valued, and put into practice by people and organizations. I am passionate about uncovering the human stories behind policies, technologies, and systems—and sharing them in ways that inspire insight and meaningful change.
 
 Latest News 
 ======
 - Oct, 2025: Virtual Student Volunteer at [ASSETS 2025](https://assets25.sigaccess.org)
-- Oct, 2025: Won [Best paper award for the Accesibility Paradox](https://programs.sigchi.org/cscw/2025/program/content/211004) at [CSCW 2025](https://cscw.acm.org/2025/)
+- Oct, 2025: Won the [Best Paper Award](https://programs.sigchi.org/cscw/2025/program/content/211004) for **the Accesibility Paradox** at [CSCW 2025](https://cscw.acm.org/2025/)
+- Aug, 2025: Successfully completed PhD Advancement to Candidacy
