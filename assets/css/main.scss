@@ -41,16 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-/* Right-align top navigation links */
-#site-nav .visible-links {
-  display: flex;          /* use flexbox for easy alignment */
-  justify-content: flex-end; /* push links to the right */
-  list-style: none;       /* remove bullets */
-  margin: 0;
-  padding: 0;
-}
-
-#site-nav .visible-links .masthead__menu-item {
-  margin-left: 20px;      /* space between links */
-}
