@@ -11,54 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Informatics, University of California Irvine, 2028 (expected)
+* M.S. in Informatics, University of California Irvine, 2019
+* B.S. in Computer Engineering, University of Mumbai, 2015
+  
+Research Interests
+======
+* Accessibility
+* Organizations
+* Human-Computer Interaction
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Doctoral Researcher | UC Irvine
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* User Experience Researcher | MathWorks
 
-Publications
+* User Experience Intern | Nelnet
+
+* Data Integration Analyst | Tata Consultancy Services
+
+  
+Publications (Peer Reviewed)
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Akter, T., **Marathe, A. S.**, Gergle, D., & Piper, A. M. (2025, October). Beyond Accessibility: Understanding the Ease of Use and Impacts of Digital Collaboration Tools for Blind and Low Vision Workers. In Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 1-17).
+
+* **Marathe, A. S.**, & Piper, A. M. (2025). The Accessibility Paradox: How Blind and Low Vision Employees Experience and Negotiate Accessibility in the Technology Industry. Proceedings of the ACM on Human-Computer Interaction, 9(7), 1-25.
+
+* Gupta, S., Tanenbaum, T. J., Muralikumar, M. D., & **Marathe, A. S.** (2020, April). Investigating roleplaying and identity transformation in a virtual reality narrative experience. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-13).
   
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Ted-style talk titled "Design for accessibility - A step towards an equitable future" at UXIndia 2022
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer reviewed for CHI 2024,2025
+* Volunteer Human guide at CSUN 2024
+* Student Volunteer - Accessibility Task Force at CHI 2024 and 2025
+* Virtual Student Volunteer at ASSETS 2025
