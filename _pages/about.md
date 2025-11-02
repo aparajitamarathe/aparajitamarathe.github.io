@@ -16,4 +16,4 @@ I love uncovering human stories behind policies, technologies, and systems, and 
 Latest News 
 ======
 - Oct, 2025: Virtual Student Volunteer at [ASSETS 2025](https://assets25.sigaccess.org)
-- Oct, 2025: Won best paper award for the Accesibility Paradox at [CSCW 2025](https://cscw.acm.org/2025/)
+- Oct, 2025: Won [Best paper award for the Accesibility Paradox](https://programs.sigchi.org/cscw/2025/program/content/211004) at [CSCW 2025](https://cscw.acm.org/2025/)
