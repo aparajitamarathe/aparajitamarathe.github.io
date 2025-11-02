@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "PhD Candidate"
+title                    : "Aparajita Marathe"
 title_separator          : "-"
 name                     : &name "Aparajita Marathe"
 description              : &description "Aparajita's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
