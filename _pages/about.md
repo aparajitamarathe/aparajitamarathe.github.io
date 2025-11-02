@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I bring justice-oriented values to my work as I examine socio-technical systems from the lens of accessibility. With a non-linear career moving between academia and tech industry, I attempt to bridge the practical and the theoretical ways of understanding and improving accessibility within diverse organizational contexts.
-
+I’m a third-year Ph.D. student at UC Irvine, exploring how organizations can become more inclusive for people with diverse abilities. My work bridges theory and practice, examining socio-technical systems through a justice-oriented lens to improve accessibility in real-world contexts. With experience spanning both academia and the tech industry, I aim to connect research insights with practical strategies that make organizations more equitable and inclusive.
