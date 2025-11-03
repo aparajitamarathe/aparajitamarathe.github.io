@@ -51,14 +51,17 @@ Publications (Peer Reviewed)
 
 Other Publications
 ======
-* **Marathe, A.**, George, D., & Malve, R. (2015). _VIAssist: Assistance for the Visually Impaired_. International Journal of Computer Applications, 975, 8887.
-
 * Sharma, V., Wani, A. S., Marée, R., Becker, C., Schuler, D., **Marathe, A.**, ... & Tuli, A. (2025). _Challenging the Growth Narrative in and Through HCI_. XRDS: Crossroads, The ACM Magazine for Students, 31(4), 12-18.
+
+* **Marathe, A.**, _Rethinking Accessibility with Post-Growth HCI_, Position Paper for Post-growth HCI Workshop, CHI (2025)
+ 
+* **Marathe, A.**, George, D., & Malve, R. (2015). _VIAssist: Assistance for the Visually Impaired_. International Journal of Computer Applications, 975, 8887.
+  
   
 Talks, Guest Lectures, Panels, & Presentations
 ======
 * 2025 Guest Lecture, ICT & Global Development, Georgia Tech
-* 2025 Judge, Design@UCI, UC Irvine
+* 2025 Student Competition Judge, Design@UCI, UC Irvine
 * 2025 Panel Speaker, Design@UCI, UC Irvine 
 * 2022 Ted-style talk titled "Design for accessibility - A step towards an equitable future", UXIndia, Hyderabad
 * 2021 Mentor, UXPA, Boston
