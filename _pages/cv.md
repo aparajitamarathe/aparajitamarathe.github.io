@@ -11,42 +11,89 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Informatics, University of California Irvine, 2028 (expected)
+* University of California Irvine, 2028 (expected)
 * M.S. in Informatics, University of California Irvine, 2019
-* B.S. in Computer Engineering, University of Mumbai, 2015
+* B.E. in Computer Engineering, University of Mumbai, 2015
   
 Research Interests
 ======
-* Accessibility
-* Organizations
-* Human-Computer Interaction
+Human-Computer Interaction, Accessibility, Organizations
+  
 
-Work experience
+Work Experience
 ======
-* Doctoral Researcher | UC Irvine
+**University of California, Irvine**, CA, USA
+*  2023-Present Graduate Research Assistant
+
+**MathWorks**, Bangalore, India
+* 2022-2023 Senior User Experience Researcher
   
-* User Experience Researcher | MathWorks
+**MathWorks**, Natick, MA, USA
+* 2019-2022 User Experience Researcher
 
-* User Experience Intern | Nelnet
+**Nelnet**, Madison, USA
+* 2018 User Experience Summer Intern
 
-* Data Integration Analyst | Tata Consultancy Services
+**Tata Consultancy Services**, Mumbai, India
+* 2015-2017 Data Integration Analyst
 
-  
+Awards
+======
+* 2025 Best Paper Award and DEI Recognition, CSCW, Bergen
+* 2018 Butterworth Product Development Competition - Second Place, UC Irvine
+* 2015 Best Speaker Award, St. Francis Institute of Technology, Mumbai
+
+Certifications 
+======
+* 2025 Public Speaking, Activate to Captivate, UC Irvine
+* 2024 Mentoring Excellence Certificate Program, UC Irvine  
+* 2023 Responsible Conduct of Research, CITI Program
+* 2023 Social/ Behavioral Investigators, CITI Program
+
 Publications (Peer Reviewed)
 ======
-* Akter, T., **Marathe, A. S.**, Gergle, D., & Piper, A. M. (2025, October). Beyond Accessibility: Understanding the Ease of Use and Impacts of Digital Collaboration Tools for Blind and Low Vision Workers. In Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 1-17).
+* Akter, T., **Marathe, A. S.**, Gergle, D., & Piper, A. M. (2025, October). _Beyond Accessibility: Understanding the Ease of Use and Impacts of Digital Collaboration Tools for Blind and Low Vision Workers_. In Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 1-17).
 
-* **Marathe, A. S.**, & Piper, A. M. (2025). The Accessibility Paradox: How Blind and Low Vision Employees Experience and Negotiate Accessibility in the Technology Industry. Proceedings of the ACM on Human-Computer Interaction, 9(7), 1-25.
+* **Marathe, A. S.**, & Piper, A. M. (2025). _The Accessibility Paradox: How Blind and Low Vision Employees Experience and Negotiate Accessibility in the Technology Industry_. Proceedings of the ACM on Human-Computer Interaction, 9(7), 1-25.
 
-* Gupta, S., Tanenbaum, T. J., Muralikumar, M. D., & **Marathe, A. S.** (2020, April). Investigating roleplaying and identity transformation in a virtual reality narrative experience. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-13).
+* Gupta, S., Tanenbaum, T. J., Muralikumar, M. D., & **Marathe, A. S.** (2020, April). _Investigating roleplaying and identity transformation in a virtual reality narrative experience_. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-13).
+
+Other Publications
+======
+* **Marathe, A.**, George, D., & Malve, R. (2015). _VIAssist: Assistance for the Visually Impaired_. International Journal of Computer Applications, 975, 8887.
+
+* Sharma, V., Wani, A. S., Marée, R., Becker, C., Schuler, D., **Marathe, A.**, ... & Tuli, A. (2025). _Challenging the Growth Narrative in and Through HCI_. XRDS: Crossroads, The ACM Magazine for Students, 31(4), 12-18.
   
-Talks
+Talks, Guest Lectures, Panels, & Presentations
 ======
-* Ted-style talk titled "Design for accessibility - A step towards an equitable future" at UXIndia 2022
+* 2025 Guest Lecture, ICT & Global Development, Georgia Tech
+* 2025 Judge, Design@UCI, UC Irvine
+* 2025 Panel Speaker, Design@UCI, UC Irvine 
+* 2022 Ted-style talk titled "Design for accessibility - A step towards an equitable future" at UXIndia, Hyderabad
+* 2021 Mentor, UXPA, Boston
 
-Service and leadership
+Teaching
 ======
-* Peer reviewed for CHI 2024,2025
-* Volunteer Human guide at CSUN 2024
-* Student Volunteer - Accessibility Task Force at CHI 2024 and 2025
-* Virtual Student Volunteer at ASSETS 2025
+**Masters Courses**
+* 2024 (Fall) Teaching Assistant, Overview of HCID, UC Irvine
+* 2024 (Spring) Teaching Assistant, MHCID Capstone Project, UC Irvine
+* 2023 (Fall) Teaching Assistant, User Needs Analysis, UC Irvine
+
+**Undergrad Courses**
+* 2019 (Winter) Teaching Assistant, Software Testing and Quality Assurance, UC Irvine
+* 2018 (Fall) Teaching Assistant, Project in HCI, UC Irvine
+* 2018 (Spring) Teaching Assistant, Computer Supported Cooperative Work, UC Irvine
+* 2018 (Winter) Teaching Assistant, Introduction to HCI, UC Irvine
+
+Service 
+======
+* 2025 External Reviewer, CHI
+* 2025 Student Volunteer, Virtual ASSETS
+* 2025 Student Volunteer, Accessibility Task Force, CHI
+* 2024 External Reviewer, CHI
+* 2024 Student Volunteer, Accessibility Task Force, CHI
+* 2024 Human Guide Volunteer, CSUN
+* 2024 Accessibility Coordinator, Accessibility Research Collective
+* 2021 Technical Coordinator, Women in Tech Summit (Virtual)
+* 2016 English Trainer, Tata Consultancy Services, Mumbai
+
