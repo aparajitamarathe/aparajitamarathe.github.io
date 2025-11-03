@@ -9,9 +9,9 @@ redirect_from:
 
 I’m a third-year PhD Candidate at UC Irvine, advised by [Dr. Anne Marie Piper](https://ics.uci.edu/~ampiper/). My research explores how accessibility is understood, valued, and put into practice by people and organizations. I am passionate about uncovering the human stories behind policies, technologies, and systems—and sharing them in ways that spark insight and meaningful change.
 
-Before beginning my PhD, I worked as a UX researcher, where I explored how people interact with digital products and services. I conducted user interviews and usability tests to uncover user needs, behaviors, and pain points, translating them to actionable design recommendations. This experience deepened my understanding of human-centered design and the importance of accessibility, equity, and inclusivity in technology. 
+Before beginning my PhD, I worked as a User Experience Researcher on projects spanning team, departmental, and organizational levels. I used methods in my research toolkit such as user interviews, usability tests, and surveys to uncover user needs, behaviors, and pain points, translating insights into actionable design and strategy recommendations. This experience strengthened my understanding of human-centered design and reinforced the importance of accessibility, equity, and inclusivity in technology.
 
-Through my non-linear career between academia and industry, I have honed the ability to listen deeply and intentionally work toward making my research practices more inclusive.
+Through my non-linear career between academia and industry, I have honed the ability to bridge theoretical and practical ways of understanding and implementing change. 
 
 Latest News 
 ======
