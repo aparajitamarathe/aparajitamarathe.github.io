@@ -23,8 +23,8 @@ main:
   - title: "CV"
     url: /cv/
     
- - title: "Side Quests"
-  url: https://postcardsfromapara.blogspot.com/?view=mosaic
+  - title: "Side Quests"
+    url: "https://postcardsfromapara.blogspot.com/?view=mosaic"
     
   # - title: "CV"
   #   url: /cv-json/
