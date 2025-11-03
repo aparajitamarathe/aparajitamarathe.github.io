@@ -22,24 +22,15 @@ Human-Computer Interaction, Accessibility, Organizations
 
 Work Experience
 ======
-**University of California, Irvine**, CA, USA
-*  2023-Present Graduate Research Assistant
-
-**MathWorks**, Bangalore, India
-* 2022-2023 Senior User Experience Researcher
-  
-**MathWorks**, Natick, MA, USA
-* 2019-2022 User Experience Researcher
-
-**Nelnet**, Madison, USA
-* 2018 User Experience Summer Intern
-
-**Tata Consultancy Services**, Mumbai, India
-* 2015-2017 Data Integration Analyst
+*  2023-Present Graduate Research Assistant, UC Irvine, USA
+* 2022-2023 Senior User Experience Researcher, MathWorks,  Bangalore, India 
+* 2019-2022 User Experience Researcher, MathWorks, Natick, USA
+* 2018 User Experience Summer Intern, Nelnet, Madison, USA
+* 2015-2017 Data Integration Analyst, TCS, Mumbai, India
 
 Awards
 ======
-* 2025 Best Paper Award and DEI Recognition, CSCW, Bergen
+* 2025 Best Paper Award and DEI Recognition, CSCW, Bergen, Norway
 * 2018 Butterworth Product Development Competition - Second Place, UC Irvine
 * 2015 Best Speaker Award, St. Francis Institute of Technology, Mumbai
 
@@ -69,7 +60,7 @@ Talks, Guest Lectures, Panels, & Presentations
 * 2025 Guest Lecture, ICT & Global Development, Georgia Tech
 * 2025 Judge, Design@UCI, UC Irvine
 * 2025 Panel Speaker, Design@UCI, UC Irvine 
-* 2022 Ted-style talk titled "Design for accessibility - A step towards an equitable future" at UXIndia, Hyderabad
+* 2022 Ted-style talk titled "Design for accessibility - A step towards an equitable future", UXIndia, Hyderabad
 * 2021 Mentor, UXPA, Boston
 
 Teaching
