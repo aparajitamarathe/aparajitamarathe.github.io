@@ -31,7 +31,7 @@ Work Experience
 Awards
 ======
 * 2025 Best Paper Award and DEI Recognition, CSCW, Bergen, Norway
-* 2018 Butterworth Product Development Competition - Second Place, UC Irvine
+* 2018 Butterworth Product Development Competition - Second Place, UC Irvine ($6000)
 * 2015 Best Speaker Award, St. Francis Institute of Technology, Mumbai
 
 Certifications 
@@ -45,7 +45,7 @@ Publications (Peer Reviewed)
 ======
 * Akter, T., **Marathe, A. S.**, Gergle, D., & Piper, A. M. (2025, October). _Beyond Accessibility: Understanding the Ease of Use and Impacts of Digital Collaboration Tools for Blind and Low Vision Workers_. In Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 1-17).
 
-* **Marathe, A. S.**, & Piper, A. M. (2025). _The Accessibility Paradox: How Blind and Low Vision Employees Experience and Negotiate Accessibility in the Technology Industry_. Proceedings of the ACM on Human-Computer Interaction, 9(7), 1-25.
+* **Marathe, A. S.**, & Piper, A. M. (2025). _The Accessibility Paradox: How Blind and Low Vision Employees Experience and Negotiate Accessibility in the Technology Industry_. Proceedings of the ACM on Human-Computer Interaction, 9(7), 1-25. 🏆 Best Paper Award, DEI Recognition
 
 * Gupta, S., Tanenbaum, T. J., Muralikumar, M. D., & **Marathe, A. S.** (2020, April). _Investigating roleplaying and identity transformation in a virtual reality narrative experience_. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (pp. 1-13).
 
