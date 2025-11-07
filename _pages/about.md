@@ -14,5 +14,5 @@ Before beginning my PhD, I worked as a User Experience Researcher on projects sp
 Latest News 
 ======
 - Oct, 2025: Virtual Student Volunteer at [ASSETS 2025](https://assets25.sigaccess.org)
-- Oct, 2025: Won [Best Paper Award](https://programs.sigchi.org/cscw/2025/program/content/211004) for **the Accesibility Paradox** at [CSCW 2025](https://cscw.acm.org/2025/)
+- Oct, 2025: Won [Best Paper Award](https://programs.sigchi.org/cscw/2025/program/content/211004) for **the Accessibility Paradox** at [CSCW 2025](https://cscw.acm.org/2025/)
 - Aug, 2025: Successfully completed PhD Advancement to Candidacy
