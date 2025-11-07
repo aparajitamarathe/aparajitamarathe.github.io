@@ -11,8 +11,6 @@ I’m a third-year PhD Candidate at UC Irvine, advised by [Dr. Anne Marie Piper]
 
 Before beginning my PhD, I worked as a User Experience Researcher on projects spanning team, departmental, and organizational levels. I conducted user interviews, usability tests, and surveys to uncover user needs, behaviors, and pain points, translating insights into actionable design and strategy recommendations. Through my PhD, I am further strengthening my research methods and deepening my understanding of human-centered design through the lens of accessibility, equity, and inclusivity.
 
-Through my non-linear career between academia and industry, I have honed the ability to bridge theoretical and practical ways of understanding and implementing change. 
-
 Latest News 
 ======
 - Oct, 2025: Virtual Student Volunteer at [ASSETS 2025](https://assets25.sigaccess.org)
