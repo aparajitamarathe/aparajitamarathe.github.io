@@ -23,7 +23,7 @@ This project uses Critical Discourse Analysis (CDA) to examine how technology co
 
 **Experiences of Blind and Low Vision Employees in the Tech Industry** [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3757666)
 
-This project examines how blind and low vision (BLV) employees experience and negotiate accessibility within major technology companies. The study reveals a persistent gap between corporate commitments to inclusion and the realities of everyday work, which we call the accessibility paradox—the tension between profit-driven priorities and efforts to hire and support disabled workers. By introducing the accessibility paradox, we challenge current trends in the tech industry around accessibility and offer recommendations, for organizations that genuinely aim to be more inclusive, on how to navigate these tensions in a sustainable way.
+This project examines how blind and low vision (BLV) employees experience and negotiate accessibility within major technology companies. The study reveals a persistent gap between corporate commitments to inclusion and the realities of everyday work, which we call the accessibility paradox—the tension between profit-driven priorities and efforts to hire and support disabled workers. By introducing the accessibility paradox, we bring to light the opposing forces that hinder the successful implementation of accessibility and offer recommendations, for organizations that genuinely aim to be more inclusive, on how to navigate these tensions in a sustainable way.
 
 **Digital Workplace Collaboration Tools** [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3663547.3746332)
 
