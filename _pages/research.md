@@ -2,7 +2,6 @@
 layout: archive
 permalink: /publications/
 title: "Research Projects"
-show_title: false
 author_profile: true
 redirect_from: 
   - /publications.html
@@ -29,7 +28,7 @@ This project examines how blind and low vision (BLV) employees experience and ne
 
 **Screenreader Users' Experiences with Digital Workplace Technologies** [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3663547.3746332)
 
-In this project, we investigated how blind and low vision (BLV) professionals use and experience mainstream digital collaboration platforms. Through a survey of 155 BLV workers, we report ease of use and importance of 30 common workplace tools. We find that accessibility barriers often limit collaboration, job performance, and career advancement. We highlight how these gaps compound inequities in digital work and offer recommendations for designing more inclusive collaboration environments.
+In this project, we investigated how blind and low vision (BLV) professionals use mainstream digital collaboration platforms. Analyzing survey responses of 155 BLV workers, we report ease of use and importance of 30 common workplace technologies. We find that accessibility barriers put forth by these tools limit collaboration, job performance, and career advancement for BLV workers. We highlight the compounding inequities in digital work and offer recommendations for designing more inclusive collaboration environments.
 
 
 
