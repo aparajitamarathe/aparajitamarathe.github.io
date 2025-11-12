@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can find the most updated list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+
 
   
 Ongoing Research
@@ -31,6 +29,10 @@ This project examines how blind and low vision (BLV) employees experience and ne
 **Digital Workplace Collaboration Tools** [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3663547.3746332)
 
 In this project, we investigated how blind and low vision (BLV) professionals use and experience mainstream digital collaboration platforms. Through a survey of 155 BLV users, we report ease of use and importance of 30 common workplace tools. We find that accessibility barriers often limit collaboration, job performance, and career advancement. We highlight how these gaps compound inequities in digital work and offer recommendations for designing more inclusive collaboration environments.
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can find the most updated list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
 Feel free to reach out to learn more or collaborate!
 ====== 
