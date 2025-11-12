@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research Projects"
 author_profile: true
 redirect_from: 
-  - /about.html
+  - /research.html
 ---
 
 {% include base_path %}
