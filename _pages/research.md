@@ -2,6 +2,7 @@
 layout: archive
 permalink: /publications/
 title: "Research Projects"
+show_title: false
 author_profile: true
 redirect_from: 
   - /publications.html
