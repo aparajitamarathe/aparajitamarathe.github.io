@@ -9,7 +9,7 @@ author_profile: true
   
 Ongoing Research
 ======
-*** Understanding Accessibility and Organizational Practice.**
+* Understanding Accessibility and Organizational Practice
 I am currently conducting an ethnographic study at a local non-profit organization to explore how accessibility is understood, negotiated, and implemented by various organizational members. 
 
 Select Projects
