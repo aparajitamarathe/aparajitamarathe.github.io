@@ -22,3 +22,4 @@ Select Projects
 
 Feel free to reach out to learn more or collaborate!
 ====== 
+Contact me at asmarath[at]uci[dot]edu
