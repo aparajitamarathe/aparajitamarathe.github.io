@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+I bring justice-oriented values to my research, centering equity and inclusion as I investigate how systemic barriers shape people’s experiences. My projects explore how people, technologies, and organizations interact to shape inclusive experiences. Using a variety of qualitative and quantitative methods, I aim to uncover challenges, highlight opportunities, and inform more equitable organizational practices.
   
 Ongoing Research
 ======
