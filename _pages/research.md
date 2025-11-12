@@ -25,7 +25,7 @@ This project uses Critical Discourse Analysis (CDA) to examine how technology co
 
 This project examines how blind and low vision (BLV) employees experience and negotiate accessibility within major technology companies. The study reveals a persistent gap between corporate commitments to inclusion and the realities of everyday work, which we call the accessibility paradox—the tension between profit-driven priorities and efforts to hire and support disabled workers. By introducing the accessibility paradox, we bring to light the opposing forces that hinder the successful implementation of accessibility and offer recommendations, for organizations that genuinely aim to be more inclusive, on how to navigate these tensions in a sustainable way.
 
-**Digital Workplace Collaboration Tools** [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3663547.3746332)
+**Screenreader Users' Experiences with Digital Workplace Technologies** [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3663547.3746332)
 
 In this project, we investigated how blind and low vision (BLV) professionals use and experience mainstream digital collaboration platforms. Through a survey of 155 BLV workers, we report ease of use and importance of 30 common workplace tools. We find that accessibility barriers often limit collaboration, job performance, and career advancement. We highlight how these gaps compound inequities in digital work and offer recommendations for designing more inclusive collaboration environments.
 
