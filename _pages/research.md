@@ -13,7 +13,7 @@ Ongoing Research
 ======
 **Understanding Accessibility and Organizational Practice**
 
-I am currently conducting an ethnographic study at a local non-profit organization to explore how accessibility is understood, negotiated, and implemented by various organizational members. 
+I am currently conducting an [ethnographic study](https://en.wikipedia.org/wiki/Ethnography) at a local non-profit organization to explore how accessibility is understood, negotiated, and implemented by various organizational members. 
 
 Select Projects
 ======
