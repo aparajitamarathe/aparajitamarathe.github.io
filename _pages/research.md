@@ -1,7 +1,9 @@
 ---
-layout: archive
 permalink: /research/
+title: "Research Projects"
 author_profile: true
+redirect_from: 
+  - /about.html
 ---
 
 {% include base_path %}
