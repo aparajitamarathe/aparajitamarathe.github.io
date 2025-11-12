@@ -20,4 +20,5 @@ Select Projects
 
 * Understanding Ease of Use and Impacts of Digital Collaboration Tools for Blind and Low Vision Workers [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3663547.3746332)
 
-  
+Feel free to reach out to learn more or collaborate!
+====== 
