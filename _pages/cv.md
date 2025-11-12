@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Informatics, University of California Irvine, 2028 (expected)
+* Ph.D. in Informatics, University of California Irvine, 2027 (expected)
 * M.S. in Informatics, University of California Irvine, 2019
 * B.E. in Computer Engineering, University of Mumbai, 2015
   
