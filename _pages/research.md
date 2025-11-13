@@ -22,11 +22,11 @@ Select Projects
 
 This project uses [Critical Discourse Analysis (CDA)](https://en.wikipedia.org/wiki/Critical_discourse_analysis) to examine how technology companies frame “AI for accessibility” in their public narratives. The study highlights how corporate language and communication influences the social realities and power dynamics surrounding AI and accessibility. Through this work, we encourage researchers, practioners and policy makers to reflect not just on how AI systems work, but also on whose interests they serve and what kinds of futures they create.
 
-**Experiences of Blind and Low Vision Employees in the Tech Industry** [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3757666), [Slides](https://docs.google.com/presentation/d/1TSiNUWi7aaYtgV73s-t8VsxObPuToZadDuilxgqPrD8/edit?usp=sharing)
+**Experiences of Blind and Low Vision Employees in the Tech Industry** [[Read Paper](https://dl.acm.org/doi/pdf/10.1145/3757666), [Slides](https://docs.google.com/presentation/d/1TSiNUWi7aaYtgV73s-t8VsxObPuToZadDuilxgqPrD8/edit?usp=sharing)]
 
 This project examines how blind and low vision (BLV) employees experience and negotiate accessibility within U.S. tech companies. The study reveals a persistent gap between corporate commitments to inclusion and the realities of everyday work, which we call the accessibility paradox—the tension between profit-driven priorities and efforts to hire and support disabled workers. By introducing the accessibility paradox, we bring to light the opposing forces that hinder the successful implementation of accessibility and offer recommendations, for organizations that genuinely aim to be more inclusive, on how to navigate these tensions in a sustainable way.
 
-**Screenreader Users' Experiences with Digital Workplace Technologies** [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3663547.3746332)
+**Screenreader Users' Experiences with Digital Workplace Technologies** [[Read Paper](https://dl.acm.org/doi/pdf/10.1145/3663547.3746332)]
 
 In this project, we investigated how blind and low vision (BLV) professionals use mainstream digital collaboration platforms. Analyzing survey responses of 155 BLV workers, we report ease of use and importance of 30 common workplace technologies. We find that accessibility barriers put forth by these tools limit collaboration, job performance, and career advancement for BLV workers. We highlight the compounding inequities in digital work and offer recommendations for designing more inclusive collaboration environments.
 
