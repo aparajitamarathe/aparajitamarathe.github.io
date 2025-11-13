@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I bring justice-oriented values to my research, centering equity and inclusion as I investigate accessibility within diverse organizational contexts. My projects explore how people, technologies, and organizations interact to shape equitable participation. Using a variety of qualitative and quantitative methods, I aim to uncover challenges, highlight opportunities, and inform more inclusive design of socio-technical systems.
+I bring justice-oriented values to my research, centering equity and inclusion as I investigate accessibility within diverse organizational contexts. My projects explore how people, technologies, and organizations interact to shape equitable participation of disabled people. Using a variety of qualitative and quantitative methods, I aim to uncover challenges, highlight opportunities, and inform more inclusive design of socio-technical systems.
   
 Ongoing Research
 ======
