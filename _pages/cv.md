@@ -22,7 +22,7 @@ Human-Computer Interaction, Accessibility, Organizations
 
 Work Experience
 ======
-* 2023-Present Graduate Research Assistant, **UC Irvine**, USA
+* 2023-Present Doctoral Researcher, **UC Irvine**, USA
 * 2022-2023 Senior User Experience Researcher, **MathWorks**,  Bangalore, India 
 * 2019-2022 User Experience Researcher, **MathWorks**, Natick, USA
 * 2018 User Experience Summer Intern, **Nelnet**, Madison, USA
