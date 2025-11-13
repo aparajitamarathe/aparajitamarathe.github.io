@@ -20,7 +20,7 @@ Select Projects
 ======
 **Technology Companies’ Narratives on AI for Accessibility**  [Under Review]
 
-This project uses Critical Discourse Analysis (CDA) to examine how technology companies frame “AI for accessibility” in their public narratives. The study highlights how corporate language and communication influences the social realities and power dynamics surrounding AI and accessibility. Through this work, we encourage researchers, practioners and policy makers to reflect not just on how AI systems work, but also on whose interests they serve and what kinds of futures they create.
+This project uses [Critical Discourse Analysis (CDA)](https://en.wikipedia.org/wiki/Critical_discourse_analysis) to examine how technology companies frame “AI for accessibility” in their public narratives. The study highlights how corporate language and communication influences the social realities and power dynamics surrounding AI and accessibility. Through this work, we encourage researchers, practioners and policy makers to reflect not just on how AI systems work, but also on whose interests they serve and what kinds of futures they create.
 
 **Experiences of Blind and Low Vision Employees in the Tech Industry** [Read Paper](https://dl.acm.org/doi/pdf/10.1145/3757666), [Slides](https://docs.google.com/presentation/d/1TSiNUWi7aaYtgV73s-t8VsxObPuToZadDuilxgqPrD8/edit?usp=sharing)
 
