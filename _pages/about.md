@@ -13,6 +13,8 @@ Before beginning my PhD, I worked as a User Experience Researcher on projects sp
 
 Latest News 
 ======
+- Jan, 2025: **Rhetoric vs Responsibility: How Tech Companies Shape AI for Accessibility** conditionally accepted for presentation and publication at CHI 2026!
+- Jan, 2025: Teaching Assistant for IN4MATX 132. Advanced Topics in Human-Computer Interaction 
 - Oct, 2025: Virtual Student Volunteer at [ASSETS 2025](https://assets25.sigaccess.org)
 - Oct, 2025: Won [Best Paper Award](https://programs.sigchi.org/cscw/2025/program/content/211004) for **the Accessibility Paradox** at [CSCW 2025](https://cscw.acm.org/2025/)
 - Aug, 2025: Successfully completed PhD Advancement to Candidacy
