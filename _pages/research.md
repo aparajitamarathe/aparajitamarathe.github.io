@@ -18,7 +18,7 @@ I am currently conducting an [ethnographic study](https://en.wikipedia.org/wiki/
 
 Select Projects
 ======
-**Technology Companies’ Narratives on AI for Accessibility** [[Read Pre-Print]([https://dl.acm.org/doi/pdf/10.1145/3663547.3746332](https://drive.google.com/file/d/1yF7dRmBQpGli-3A7-nuPR4p7dBOkPxu_/view?usp=sharing)]
+**Technology Companies’ Narratives on AI for Accessibility** [Read Pre-Print](https://drive.google.com/file/d/1yF7dRmBQpGli-3A7-nuPR4p7dBOkPxu_/view?usp=sharing)
 
 This project uses [Critical Discourse Analysis (CDA)](https://en.wikipedia.org/wiki/Critical_discourse_analysis) to examine how technology companies frame “AI for accessibility” in their public narratives. The study highlights how corporate language and communication influences the social realities and power dynamics surrounding AI and accessibility. Through this work, we encourage researchers, practioners and policy makers to reflect not just on how AI systems work, but also on whose interests they serve and what kinds of futures they create.
 
