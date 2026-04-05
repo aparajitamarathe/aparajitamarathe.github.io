@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD Candidate at the University of California, Irvine and I'm advised by [Dr. Anne Marie Piper](https://ics.uci.edu/~ampiper/). My research explores how accessibility is understood, valued, and put into practice by people and organizations. I am passionate about uncovering people's stories behind policies, technologies, and systems—and sharing them in ways that spark insight and meaningful change.
+Aparajita Marathe (a.k.a Apara) is a PhD Candidate at the University of California, Irvine. She is advised by [Dr. Anne Marie Piper](https://ics.uci.edu/~ampiper/) and is part of the Accessibility Research Collective. Her research explores how accessibility is understood, valued, and put into practice by people and organizations. She is passionate about uncovering people's stories behind policies, technologies, and systems—and sharing them in ways that spark insight and meaningful change.
 
-Before beginning my PhD, I worked as a User Experience Researcher on projects spanning team, departmental, and organizational levels. I conducted user interviews, usability tests, and surveys to uncover user needs, behaviors, and pain points, translating insights into actionable design and strategy recommendations. I returned to academia to further strengthen my research toolkit and deepen my understanding of human-centered design through the lens of accessibility, equity, and inclusivity.
+Before starting her PhD, she worked as a User Experience Researcher on projects spanning team, departmental, and organizational levels. She used a variety of methods—such as user interviews, usability tests, and surveys—to uncover user needs, behaviors, and pain points, translating insights into actionable design and strategy recommendations. She returned to academia to further strengthen her research toolkit and deepen her understanding of human-centered design through the lens of accessibility, equity, and inclusivity.
 
 Latest News 
 ======
+- April, 2026: Presenting at [CHI 2026, Barcelona](https://chi2026.acm.org)
 - Jan, 2026: [**Rhetoric vs Responsibility: How Tech Companies Shape AI for Accessibility**](https://drive.google.com/file/d/1B6F1mVqObJ4DVb7k4TPoRW8g3o5ZYVxr/view?usp=sharing) accepted at [CHI 2026](https://chi2026.acm.org)!
 - Jan, 2025: Teaching Assistant for IN4MATX 132. Advanced Topics in Human-Computer Interaction 
 - Oct, 2025: Virtual Student Volunteer at [ASSETS 2025](https://assets25.sigaccess.org)
