@@ -36,6 +36,7 @@ Awards
 
 Certifications 
 ======
+* 2026 ASSETS Future Program Committee Training Workshop
 * 2025 Public Speaking, Activate to Captivate, UC Irvine
 * 2024 Mentoring Excellence Certificate Program, UC Irvine  
 * 2023 Responsible Conduct of Research, CITI Program
