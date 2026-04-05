@@ -12,7 +12,7 @@ I bring justice-oriented values to my research, centering equity and inclusion a
   
 Ongoing Research
 ======
-**Understanding Accessibility and Organizational Practice**
+**Accessibility and Organizational Practice**
 
 I am currently conducting an [ethnographic study](https://en.wikipedia.org/wiki/Ethnography) at a local non-profit organization to explore how accessibility is understood, negotiated, and implemented by various organizational members. 
 
