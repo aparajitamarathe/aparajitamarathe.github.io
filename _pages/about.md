@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Aparajita Marathe (a.k.a Apara) is a PhD Candidate at the University of California, Irvine. She is advised by [Dr. Anne Marie Piper](https://ics.uci.edu/~ampiper/) and is part of the Accessibility Research Collective. Her research explores how accessibility is understood, valued, and put into practice by people and organizations. She is passionate about uncovering people's stories behind policies, technologies, and systems—and sharing them in ways that spark insight and meaningful change.
+Aparajita Marathe (a.k.a Apara) is a PhD Candidate at the University of California, Irvine. She is advised by [Dr. Anne Marie Piper](https://ics.uci.edu/~ampiper/) and is part of the [Accessibility Research Collective](https://accessibility.ics.uci.edu). Her research explores how accessibility is understood, valued, and put into practice by people and organizations. She is passionate about uncovering people's stories behind policies, technologies, and systems—and sharing them in ways that spark insight and meaningful change.
 
 Before starting her PhD, she worked as a User Experience Researcher on projects spanning team, departmental, and organizational levels. She used a variety of methods—such as user interviews, usability tests, and surveys—to uncover user needs, behaviors, and pain points, translating insights into actionable design and strategy recommendations. She returned to academia to further strengthen her research toolkit and deepen her understanding of human-centered design through the lens of accessibility, equity, and inclusivity.
 
