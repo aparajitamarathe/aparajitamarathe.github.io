@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* 2023-Present Ph.D. in Informatics, **University of California Irvine**
-* 2017-2019 M.S. in Informatics, **University of California Irvine**
-* 2011-2015 B.E. in Computer Engineering, **University of Mumbai**
+* 2023-Present Ph.D. in Informatics, **University of California Irvine**, USA
+* 2017-2019 M.S. in Informatics, **University of California Irvine**, USA
+* 2011-2015 B.E. in Computer Engineering, **University of Mumbai**, India
   
 Research Interests
 ======
