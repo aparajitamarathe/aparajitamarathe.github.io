@@ -30,9 +30,10 @@ Work Experience
 
 Awards
 ======
-* 2025 Best Paper Award and DEI Recognition, CSCW, Bergen, Norway
-* 2018 Butterworth Product Development Competition - Second Place, UC Irvine ($6000)
-* 2015 Best Speaker Award, St. Francis Institute of Technology, Mumbai
+* 2025 Best Paper Award and DEI Recognition, CSCW
+* 2023 Ignite Design Competition - People's Choice Award, MathWorks 
+* 2018 Butterworth Product Development Competition - Second Place, UC Irvine 
+* 2015 Best Speaker Award, St. Francis Institute of Technology
 
 Certifications 
 ======
