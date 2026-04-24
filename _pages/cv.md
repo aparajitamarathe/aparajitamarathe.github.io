@@ -45,7 +45,7 @@ Certifications
 
 Publications (Peer Reviewed)
 ======
-* **Marathe, A. S.**, Zhou, Q., Mishra, A., & Piper, A. M. (2026, April). Rhetoric vs Responsibility: How Tech Companies Shape AI for Accessibility. In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (pp. 1-20).
+* **Marathe, A. S.**, Zhou, Q., Mishra, A., & Piper, A. M. (2026). _Rhetoric vs Responsibility: How Tech Companies Shape AI for Accessibility._ In Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (pp. 1-20).
 
 * Akter, T., **Marathe, A. S.**, Gergle, D., & Piper, A. M. (2025). _Beyond Accessibility: Understanding the Ease of Use and Impacts of Digital Collaboration Tools for Blind and Low Vision Workers_. In Proceedings of the 27th International ACM SIGACCESS Conference on Computers and Accessibility (pp. 1-17).
 
