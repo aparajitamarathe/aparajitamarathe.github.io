@@ -16,7 +16,7 @@ Latest News
 - May, 2026: Workshop Proposal for CSCW 2026 accepted!! More details coming soon :) 
 - April, 2026: Presenting at [CHI 2026, Barcelona](https://chi2026.acm.org)
 - Jan, 2026: [**Rhetoric vs Responsibility: How Tech Companies Shape AI for Accessibility**](https://drive.google.com/file/d/1B6F1mVqObJ4DVb7k4TPoRW8g3o5ZYVxr/view?usp=sharing) accepted at [CHI 2026](https://chi2026.acm.org)!
-- Jan, 2025: Teaching Assistant for IN4MATX 132. Advanced Topics in Human-Computer Interaction 
+- Jan to Mar, 2026: Teaching Assistant for IN4MATX 132. Advanced Topics in Human-Computer Interaction 
 - Oct, 2025: Virtual Student Volunteer at [ASSETS 2025](https://assets25.sigaccess.org)
 - Oct, 2025: Won [Best Paper Award](https://programs.sigchi.org/cscw/2025/program/content/211004) for **the Accessibility Paradox** at [CSCW 2025](https://cscw.acm.org/2025/)
 - Aug, 2025: Successfully completed PhD Advancement to Candidacy
