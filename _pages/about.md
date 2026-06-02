@@ -13,7 +13,7 @@ Before starting her PhD, she worked as a User Experience Researcher on projects 
 
 Latest News 
 ======
-- May, 2026: Workshop Proposal for CSCW 2026 accepted!! More details coming soon :) 
+- May, 2026: Workshop Proposal for CSCW 2026 accepted! [Learn more to participate](https://sites.google.com/uci.edu/workplace-accessibility-cscw26/home)!
 - April, 2026: Presenting at [CHI 2026, Barcelona](https://chi2026.acm.org)
 - Jan, 2026: [**Rhetoric vs Responsibility: How Tech Companies Shape AI for Accessibility**](https://drive.google.com/file/d/1B6F1mVqObJ4DVb7k4TPoRW8g3o5ZYVxr/view?usp=sharing) accepted at [CHI 2026](https://chi2026.acm.org)!
 - Jan to Mar, 2026: Teaching Assistant for IN4MATX 132. Advanced Topics in Human-Computer Interaction 
