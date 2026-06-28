@@ -8,16 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-I bring justice-oriented values to my research, centering equity and inclusion as I investigate accessibility within diverse organizational contexts. My projects explore how people, technologies, and organizations interact to shape equitable participation for disabled people. Using a variety of qualitative and quantitative methods, I aim to uncover challenges, highlight opportunities, and inform more inclusive design of socio-technical systems.
-  
-Ongoing Research
-======
-**Accessibility and Organizational Practice**
+**Accessibility and Organizational Practice** [Ongoing]
 
 I am currently conducting an [ethnographic study](https://en.wikipedia.org/wiki/Ethnography) at a local non-profit organization to explore how accessibility is understood, negotiated, and implemented by various organizational members. 
 
-Select Projects
-======
 **Technology Companies’ Narratives on AI for Accessibility** [[Read Paper](https://dl.acm.org/doi/pdf/10.1145/3772318.3791854), [Slides](https://docs.google.com/presentation/d/1WzRyC2i_sxfzr4FlIJeMHIEqjWjID1A2XVrEfKhvy-k/edit?usp=share_link)]
 
 This project uses [Critical Discourse Analysis (CDA)](https://en.wikipedia.org/wiki/Critical_discourse_analysis) to examine how technology companies frame “AI for accessibility” in their public narratives. The study highlights how leading AI companies construct the social value of AI and legitimize its development for accessibility. Through this work, we encourage researchers, practioners and policy makers to reflect not just on how AI systems work, but also on whose interests they serve and what kinds of futures they create.
