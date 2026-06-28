@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Aparajita Marathe (a.k.a Apara) is a PhD Candidate at the University of California, Irvine. She is advised by [Dr. Anne Marie Piper](https://ics.uci.edu/~ampiper/) and is part of the [Accessibility Research Collective](https://accessibility.ics.uci.edu). Her research explores how accessibility is understood, valued, and put into practice by people and organizations. She is passionate about uncovering people's stories behind policies, technologies, and systems—and sharing them in ways that spark insight and meaningful change.
+Hello, I am Aparajita Marathe (a.k.a Apara)! 
 
-Before starting her PhD, she worked as a User Experience Researcher on projects spanning team, departmental, and organizational levels. She used a variety of methods—such as user interviews, usability tests, and surveys—to uncover user needs, behaviors, and pain points, translating insights into actionable design and strategy recommendations. She returned to academia to further strengthen her research toolkit and deepen her understanding of human-centered design through the lens of accessibility, equity, and inclusivity.
+Currently I am a PhD Candidate at the University of California, Irvine. I'm advised by [Dr. Anne Marie Piper](https://ics.uci.edu/~ampiper/) and am part of the [Accessibility Research Collective](https://accessibility.ics.uci.edu). I bring justice-oriented values to my research, centering equity and inclusion as I investigate accessibility within diverse organizational contexts. My projects explore how people, technologies, and organizations interact to shape equitable participation for people with disabilities. Using a variety of qualitative and quantitative methods, I aim to uncover challenges, highlight opportunities, and inform more inclusive design of socio-technical systems.
 
 Latest News 
 ======
+- July, 2026: Participating in advanced pedagogical training through [DTEI Summer Graduate Scholars Program](https://dtei.uci.edu/opportunities/grads-postdocs/dtei-graduate-fellowship/)
+- June, 2026: Recipient of Dean's Dissertation Writing Fellowship
 - May, 2026: Workshop Proposal for CSCW 2026 accepted! [Learn more to participate](https://sites.google.com/uci.edu/workplace-accessibility-cscw26/home)!
 - April, 2026: Presenting at [CHI 2026, Barcelona](https://chi2026.acm.org)
 - Jan, 2026: [**Rhetoric vs Responsibility: How Tech Companies Shape AI for Accessibility**](https://drive.google.com/file/d/1B6F1mVqObJ4DVb7k4TPoRW8g3o5ZYVxr/view?usp=sharing) accepted at [CHI 2026](https://chi2026.acm.org)!
