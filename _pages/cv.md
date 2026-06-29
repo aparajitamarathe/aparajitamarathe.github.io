@@ -85,6 +85,7 @@ Teaching
 
 Service 
 ======
+* 2026 Associate Chair, Poster Track, CSCW  
 * 2026 Session Chair for Ethics, Inclusivity, and Algorithms, CHI 
 * 2025 External Reviewer, CHI
 * 2025 Student Volunteer, Virtual ASSETS
