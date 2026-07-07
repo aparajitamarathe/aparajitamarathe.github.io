@@ -30,6 +30,8 @@ Work Experience
 
 Awards
 ======
+* 2026 Summar Graduate Scholar, Division of Teaching Excellence and Innovation
+* 2026 Dean's Dissertation Writing Fellowship
 * 2025 Best Paper Award and DEI Recognition, CSCW
 * 2023 Ignite Design Competition - People's Choice Award, MathWorks 
 * 2018 Butterworth Product Development Competition - Second Place, UC Irvine 
