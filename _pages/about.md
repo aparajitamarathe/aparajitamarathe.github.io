@@ -16,6 +16,6 @@ Latest News
 - July, 2026: Participating in advanced pedagogical training through [DTEI Summer Graduate Scholars Program](https://dtei.uci.edu/opportunities/grads-postdocs/dtei-graduate-fellowship/) to explore ways for incorporating AI literacy in core HCI courses
 - June, 2026: Recipient of Dean's Dissertation Writing Fellowship
 - June, 2026: Poster Chair for CSCW 2026 
-- May, 2026: Our Workshop Proposal for CSCW 2026 accepted! [Learn more to participate](https://sites.google.com/uci.edu/workplace-accessibility-cscw26/home)!
+- May, 2026: Workshop Proposal on Workplace Accessibility accepted at CSCW 2026! [Learn more to participate](https://sites.google.com/uci.edu/workplace-accessibility-cscw26/home)!
 - April, 2026: Presenting [**Rhetoric vs Responsibility: How Tech Companies Shape AI for Accessibility**](https://dl.acm.org/doi/full/10.1145/3772318.3791854) at [CHI 2026, Barcelona](https://chi2026.acm.org)
 - Jan to Mar, 2026: Teaching Assistant for IN4MATX 132. Advanced Topics in Human-Computer Interaction 
