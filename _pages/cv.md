@@ -28,7 +28,7 @@ Work Experience
 * 2018 User Experience Summer Intern, **Nelnet**, Madison, USA
 * 2015-2017 Data Integration Analyst, **Tata Consultancy Services**, Mumbai, India
 
-Awards
+Awards & Fellowships
 ======
 * 2026 Summar Graduate Scholar, Division of Teaching Excellence and Innovation
 * 2026 Dean's Dissertation Writing Fellowship
@@ -80,6 +80,7 @@ Teaching
 * 2023 (Fall) Teaching Assistant, User Needs Analysis, UC Irvine
 
 **Undergrad Courses**
+* 2026 (Winter) Teaching Assistant, Advanced Topics in HCI, UC Irvine
 * 2019 (Winter) Teaching Assistant, Software Testing and Quality Assurance, UC Irvine
 * 2018 (Fall) Teaching Assistant, Project in HCI, UC Irvine
 * 2018 (Spring) Teaching Assistant, Computer Supported Cooperative Work, UC Irvine
