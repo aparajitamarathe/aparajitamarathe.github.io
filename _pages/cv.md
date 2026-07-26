@@ -95,7 +95,7 @@ Service
 * 2025 Student Volunteer, Accessibility Task Force, CHI
 * 2024 External Reviewer, CHI
 * 2024 Student Volunteer, Accessibility Task Force, CHI
-* 2024 Human Guide Volunteer, CSUN
+* 2024 Human Guide for blind and low vision attendees, CSUN
 * 2024 Accessibility Coordinator, Accessibility Research Collective
 * 2021 Technical Coordinator, Women in Tech Summit (Virtual)
 * 2016 English Trainer, Tata Consultancy Services, Mumbai
