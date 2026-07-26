@@ -30,7 +30,7 @@ Work Experience
 
 Awards & Fellowships
 ======
-* 2026 Summar Graduate Scholar, Division of Teaching Excellence and Innovation
+* 2026 Summer Graduate Scholar, Division of Teaching Excellence and Innovation
 * 2026 Dean's Dissertation Writing Fellowship
 * 2025 Best Paper Award and DEI Recognition, CSCW
 * 2023 Ignite Design Competition - People's Choice Award, MathWorks 
