@@ -12,20 +12,10 @@ main:
     url: /publications/
 
   - title: "Teaching"
-   url: /teaching/    
-   
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
-    
-#  - title: "Digital Postcards"
-#    url: "https://postcardsfromapara.blogspot.com/?view=mosaic"
-    
-#  - title: "Portfolio"
-#   url: /portfolio/
-    
 
-  # - title: "CV"
-  #   url: /cv-json/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "Digital Postcards"
+    url: "https://postcardsfromapara.blogspot.com/?view=mosaic"
