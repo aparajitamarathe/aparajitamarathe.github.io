@@ -13,12 +13,12 @@ main:
 
   - title: "Teaching"
    url: /teaching/    
-
+   
   - title: "CV"
     url: /cv/
     
-  - title: "Digital Postcards"
-    url: "https://postcardsfromapara.blogspot.com/?view=mosaic"
+#  - title: "Digital Postcards"
+#    url: "https://postcardsfromapara.blogspot.com/?view=mosaic"
     
 #  - title: "Portfolio"
 #   url: /portfolio/
