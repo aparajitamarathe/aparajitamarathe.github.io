@@ -1,16 +1,13 @@
 ---
 layout: archive
 permalink: /publications/
-title: "Research Projects"
+title: "Select Research Projects"
 author_profile: true
 redirect_from: 
   - /publications.html
 ---
 
 {% include base_path %}
-**Accessibility and Organizational Practice** [Ongoing]
-
-I am currently conducting an [ethnographic study](https://en.wikipedia.org/wiki/Ethnography) at a local non-profit organization to explore how accessibility is understood, negotiated, and implemented by various organizational members. 
 
 **Technology Companies’ Narratives on AI for Accessibility** [[Read Paper](https://dl.acm.org/doi/pdf/10.1145/3772318.3791854), [Slides](https://docs.google.com/presentation/d/1WzRyC2i_sxfzr4FlIJeMHIEqjWjID1A2XVrEfKhvy-k/edit?usp=share_link)]
 
