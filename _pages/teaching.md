@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching Assistantship"
 author_profile: true
 redirect_from: 
   - /teaching.html
